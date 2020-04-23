@@ -1,0 +1,40 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="DogLibrary.Dog">
+    <Position X="4.75" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AQAAAAAAAAAAAAEAAAAAgAAAAAAAAEAAAAAAAAAAAAA=</HashCode>
+      <FileName>Models\Dog.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DogLibrary.Cat">
+    <Position X="2" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>IAAAAAAAAAAAAAAAAAAAAAAAAAACAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Models\Cat.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DogLibrary.Mammal">
+    <Position X="3.5" Y="0.5" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAEAAAAAEAAEAAAAQAADAAACAABAAAAAAAAAA=</HashCode>
+      <FileName>Models\Mammal.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Interface Name="DogLibrary.IMammal">
+    <Position X="7.5" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAEAAAAAAAAEAAAAQAADAAACAABAAAAAAAAAA=</HashCode>
+      <FileName>Models\IMammal.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="DogLibrary.IAboutable">
+    <Position X="5.75" Y="1" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Models\IMammal.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Font Name="Segoe UI" Size="8.83" />
+</ClassDiagram>

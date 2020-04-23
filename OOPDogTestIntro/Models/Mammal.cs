@@ -64,6 +64,12 @@ namespace DogLibrary
             this.Weight++;
         }
 
+        public void Eat(int HowMuch)
+        {
+            
+            this.Weight += HowMuch;
+        }
+
         public virtual string About()
         {
             return string.Format($"I'm a {this} I'm {Age} old and I weigh {Weight} lbs. I sound like {Sound}");
